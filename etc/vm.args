@@ -26,6 +26,7 @@
 
 ## Run code at startup.
 -eval "application:start(lager)"
+-eval "skyjet:start()"
 -eval "application:start(sync)"
 
 ## Cookie for distributed erlang (auto-generated)

@@ -1,0 +1,4 @@
+.*.swp
+log
+erl_crash.dump
+etc/skyjet.config
