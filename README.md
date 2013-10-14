@@ -1,2 +1,2 @@
-cea
+Skype jabber transport
 ===
